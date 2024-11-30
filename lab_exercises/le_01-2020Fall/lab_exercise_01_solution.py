@@ -15,7 +15,7 @@ valid_abbr = [nq, dent_central]
 
 
 # PROBLEM 3 (5 points)
-valid_abbr_length = len(valid_abbr)
+valid_abbr_length = len(valid_abbr) # the len function tells us the length of the variable valid_abbr
 
 
 # PROBLEM 4 (5 points)
