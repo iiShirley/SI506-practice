@@ -127,7 +127,7 @@ def main():
     print(f"Leia instance name = {leia.name}")
 
     # Write out the information produced from the instance of < Person >
-    write_json("leia.json", leia.jsonable())
+    write_json("leia.json", leia.jsonable()) # this is the write_json function that we have initialized before
 
 # END PROBLEM 04
 
