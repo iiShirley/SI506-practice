@@ -6,7 +6,7 @@ print('\nProblem 1')
 
 cases = [11, 10, 38, 19, 27]
 
-cases_latest = None #Assign
+cases_latest = None #Assign the variable using sequence indexing
 
 # PROBLEM 2 (20 points)
 print('\nProblem 2')
