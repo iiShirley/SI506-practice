@@ -170,7 +170,7 @@ def main():
     # Make a new list <chewbacca_info> that only contains the information on chewbacca.
     # If you are confused, look at the keys of the dictionary that resulted from your
     # call to <read_json>.
-    informant_info = read_json('informants.json')
+    informant_info = read_json('informants.json') # import data from informants.json
     rey_info = informant_info['information_on_rey']
     chewbacca_info = informant_info['information_on_chewbacca']
 
